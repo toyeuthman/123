@@ -3,11 +3,17 @@ CRUD_EXPRESS API WITH MONGODB
 
 Table of Contents
 [Introduction](#introdction)
+
 [Getting Started](#getting-started)
+
 [API Endpoints](#api-endpoints)
+
 [Examples](#examples)
+
 [Error Handling](#error-handling)
+
 [Contributing](#contributing)
+
 [License](#license)
 
 ## Introduction
